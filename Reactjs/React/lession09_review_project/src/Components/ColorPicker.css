@@ -1,0 +1,8 @@
+span{
+	margin-right:40px;
+	padding: 10px 20px;
+}
+
+.active{
+	border: 2px solid black;
+}

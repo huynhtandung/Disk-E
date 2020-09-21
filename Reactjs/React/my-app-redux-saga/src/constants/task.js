@@ -1,0 +1,16 @@
+export const FETCH_TASK = 'FETCH_TASK';
+export const FETCH_TASK_SUCCESS = 'FETCH_TASK_SUCCESS';
+export const FETCH_TASK_FAIL = 'FETCH_TASK_FAIL';
+
+export const FILTER_TASK = 'FILTER_TASK';
+export const FILTER_TASK_SUCCESS = 'FILTER_TASK_SUCCESS';
+
+export const ADD_TASK = 'ADD_TASK';
+export const ADD_TASK_SUCCESS = 'ADD_TASK_SUCCESS';
+export const ADD_TASK_FAIL = 'ADD_TASK_FAIL';
+
+
+export const SET_TASK_EDITTING = 'SET_TASK_EDITTING';
+export const EDIT_TASK = 'EDIT_TASK';
+export const EDIT_TASK_SUCCESS = 'EDIT_TASK_SUCCESS';
+export const EDIT_TASK_FAIL = 'EDIT_TASK_FAIL';
